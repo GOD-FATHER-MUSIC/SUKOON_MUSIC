@@ -147,7 +147,7 @@ Stay updated with the latest features and improvements to Istkhar Music Bot:
   <a href="https://telegram.me/Arishfa_Update">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/ll_ISTKHAR_ll">
+  <a href="https://t.me/GOD_KI_DUNIYA">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
