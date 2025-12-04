@@ -85,12 +85,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/t34fyv.jpg"
+    "START_IMG_URL", "https://carder.top/imagens/1763565116762-83938494.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "httpshttps://files.catbox.moe/t34fyv.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
+PLAYLIST_IMG_URL = "https://carder.top/imagens/1763565116762-83938494.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yfvai0.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/nef735.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
@@ -121,6 +121,7 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
 
 
 
